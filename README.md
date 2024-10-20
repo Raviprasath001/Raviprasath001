@@ -1,4 +1,4 @@
-##**Raviprasath - Full Stack Developer** 
+##Raviprasath - Full Stack Developer
 
 🚀Welcome to my GitHub! I'm Raviprasath, a full-stack developer with 4+ years of experience specializing in building scalable, efficient, and user-friendly applications. My work spans across front-end and back-end development, cloud infrastructure, and security enhancements.
 
