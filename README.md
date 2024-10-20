@@ -5,7 +5,7 @@
 ###**🔥 About Me**
 I have a strong background in **Java, Angular, Spring Boot, Node.js**, and **AWS services**. Throughout my career, I have contributed to multiple projects, enhancing performance, reducing processing times, and ensuring robust security implementations. My expertise in integrating services like **OKTA** for authentication and AWS for scalable deployments ensures high reliability and seamless user experiences.
 
-###**💻 Key Projects**
+###**💻 Key Projects**  
 ####**Claim Inspection Engine**
 1. Reduced false positives by 20% and improved processing time by 40%.
 2. Integrated OKTA for authentication, cutting unauthorized access by 40%.
